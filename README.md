@@ -130,7 +130,7 @@ SECRET_KEY=generate-a-random-secret-key
 
 ![VPC](<Screenshot - VPC bootcamp atualizado.jpg>)
 
-![EC2 instance running on AWS console](<Instancia EC2 - Funcionando atualizado.jpg>)
+![EC2 instance running on AWS console](<Instancia EC2 - Funcionando atualizado.JPG>)
 
 ![Network ACLs](<Screenshot - NetWork ACLs.jpg>)
 
