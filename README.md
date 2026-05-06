@@ -118,11 +118,20 @@ SECRET_KEY=generate-a-random-secret-key
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home page with jumbotron and feature cards](screenshots/01-home.png)
+![Home page ](Pagina Inicial.jpg)
+![Login page ](Pagina Login.jpg)
+![Registration page ](Pagina Registro.jpg)
+
 
 ### ☁️ AWS EC2 Instance / RDS / Security Groups / VPC / Subnets / Route Tables
-![EC2 instance running on AWS console](
-)
+![VPC](Screenshot - VPC bootcamp.jpg)
+![EC2 instance running on AWS console](Instancia EC2 - Funcionando.jpg)
+![Private Subnet 1](Screenshot - private subnet - 1.jpg)
+![Private Subnet RDS](Screenshot - private subnet - RDS.jpg)
+![Public Subnet](Screenshot - publica subnet .jpg)
+![RDS](Screenshot - Database MySql - RDS.jpg)
+![Security Groups](Screenshot - Security Groups VPC.jpg)
+![Route Tables](Screenshot - route tables.jpg)
 
 ### 📖 About Page
 ![About page describing the project](screenshots/03-about.png)
