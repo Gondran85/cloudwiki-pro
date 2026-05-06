@@ -128,7 +128,7 @@ SECRET_KEY=generate-a-random-secret-key
 
 ### ☁️ AWS VPC / EC2 Instance / Network ACLs / RDS / Security Groups / Route Tables
 
-![VPC](<Screenshot - VPC bootcamp atualizado.jpg>)
+![VPC](<Screenshot - VPC bootcamp atualizado.JPG>)
 
 ![EC2 instance running on AWS console](<Instancia EC2 - Funcionando atualizado.JPG>)
 
