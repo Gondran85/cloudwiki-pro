@@ -145,7 +145,7 @@ SECRET_KEY=generate-a-random-secret-key
 ![Route Tables](<Screenshot - route tables.jpg>)
 
 ### 📖 About Page
-![About page describing the project](screenshots/03-about.png)
+![About page describing the project](<Screenshot - About.jpg>)
 
 ---
 
