@@ -115,10 +115,17 @@ SECRET_KEY=generate-a-random-secret-key
 > ⚠️ **Never commit your `.env` file.** It's already in `.gitignore`.
 
 ---
-
 ## 📸 Screenshots
 
-> _Coming soon — add screenshots of the home page, dashboard, and article editor._
+### 🏠 Home Page
+![Home page with jumbotron and feature cards](screenshots/01-home.png)
+
+### ☁️ AWS EC2 Instance / RDS / Security Groups / VPC / Subnets / Route Tables
+![EC2 instance running on AWS console](
+)
+
+### 📖 About Page
+![About page describing the project](screenshots/03-about.png)
 
 ---
 
