@@ -118,6 +118,7 @@ SECRET_KEY=generate-a-random-secret-key
 ## 📸 Screenshots
 
 ### 🏠 Home Page
+The landing page features a hero section with the project name, tech stack, and feature highlight cards.
 
 ![Home page](<Pagina Inicial.jpg>)
 
@@ -141,6 +142,7 @@ SECRET_KEY=generate-a-random-secret-key
 ![Route Tables](<Screenshot - route tables.jpg>)
 
 ### 📖 About Page
+Project context and tech stack information.
 ![About page describing the project](<Screenshot - About.jpg>)
 
 ---
