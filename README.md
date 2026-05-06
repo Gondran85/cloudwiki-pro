@@ -126,17 +126,13 @@ SECRET_KEY=generate-a-random-secret-key
 ![Registration page](<Pagina Registro.jpg>)
 
 
-### ☁️ AWS VPC / EC2 Instance / Subnets / RDS / Security Groups / Route Tables
+### ☁️ AWS VPC / EC2 Instance / Network ACLs / RDS / Security Groups / Route Tables
 
-![VPC](<Screenshot - VPC bootcamp.jpg>)
+![VPC](<Screenshot - VPC bootcamp atualizado.jpg>)
 
-![EC2 instance running on AWS console](<Instancia EC2 - Funcionando.jpg>)
+![EC2 instance running on AWS console](<Instancia EC2 - Funcionando atualizado.jpg>)
 
-![Private Subnet 1](<Screenshot - private subnet - 1.jpg>)
-
-![Private Subnet RDS](<Screenshot - private subnet - RDS.jpg>)
-
-![Public Subnet](<Screenshot - publica subnet .jpg>)
+![Network ACLs](<Screenshot - NetWork ACLs.jpg>)
 
 ![RDS](<Screenshot - Database MySql - RDS.jpg>)
 
