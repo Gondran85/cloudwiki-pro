@@ -126,7 +126,7 @@ SECRET_KEY=generate-a-random-secret-key
 ![Registration page](<Pagina Registro.jpg>)
 
 
-### ☁️ AWS EC2 Instance / RDS / Security Groups / VPC / Subnets / Route Tables
+### ☁️ AWS VPC / EC2 Instance / Subnets / RDS / Security Groups / Route Tables
 
 ![VPC](<Screenshot - VPC bootcamp.jpg>)
 
