@@ -1,0 +1,36 @@
+# Segredos (NUNCA subir pro GitHub)
+.env
+*.pem
+*.key
+credentials
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+meu-ambiente/
+.Python
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Banco de dados
+dump.sql
+*.sqlite
+*.sqlite3
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local backups (never commit)
+*.backup
+*.original
